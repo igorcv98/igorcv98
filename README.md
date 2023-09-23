@@ -1,4 +1,9 @@
-### Hi there 👋
+### Olá, eu sou o Igor 👋
+
+Engenheiro Mecânico @ UFV
+
+Analista de Dados @ Votorantim
+
 
 <!--
 **igorcv98/igorcv98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
