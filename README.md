@@ -7,10 +7,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-    <p>Engenheiro Mecânico @ <a href="https://www.ufv.br">UFV</a></p>
-    <p>Analista de Dados @ <a href="https://www.votorantim.com.br/">Votorantim</a></p>
+    <p>Engenheiro Mecânico @ <a href="https://www.ufv.br" target="_blank">UFV</a></p>
+    <p>Analista de Dados @ <a href="https://www.votorantim.com.br/" target="_blank">Votorantim</a></p>
 </body>
 </html>
+
 
 
 
