@@ -16,6 +16,9 @@
 🌱 I’m currently learning about <b> Data Engineering </b> and <b>Data Science </b>
 </html>
 
+<br>
+<br>
+<b> Veja Alguns de Meus Projetos:</b>
 
 
 
