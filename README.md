@@ -23,7 +23,7 @@
  
 <p> <a href="https://www.ufv.br" target="_blank">Extração e Análise de Dados do Campeonato Brasileiro de Futebol </a></p>
 
-
+Neste Projeto Eu utilizo Python (mais espeficicamente Beautful Soul, Request e Pandas) para extrair e tratar dados do Campeonato Brasileiro de Futebol das séries A e B. Posteriormente, esses dados são carregados no Power BI, onde são gerados Paineis com algumas análises bem legais!
 
 <!--
 **igorcv98/igorcv98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
