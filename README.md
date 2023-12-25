@@ -1,21 +1,36 @@
-### Olá, eu sou o Igor 👋
-
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Perfil de Igor</title>
 </head>
 <body>
-    <p>Engenheiro Mecânico @ <a href="https://www.ufv.br" target="_blank">UFV</a></p>
-    <p>Analista de Dados @ <a href="https://www.votorantim.com.br/" target="_blank">Votorantim</a></p>
-</head>
-<body>
-🔭 I’m currently working on <b>Power BI and Python <b>
-</head>
-<body>
-🌱 I’m currently learning about Data Engineering and Data Science
+    <h1>Olá, eu sou o Igor 👋</h1>
+
+    <section>
+        <h2>Formação</h2>
+        <p>Engenheiro Mecânico @ <a href="https://www.ufv.br" target="_blank">UFV</a></p>
+    </section>
+
+    <section>
+        <h2>Experiência Profissional</h2>
+        <p>Analista de Dados @ <a href="https://www.votorantim.com.br/" target="_blank">Votorantim</a></p>
+    </section>
+
+    <section>
+        <h2>Projetos Atuais</h2>
+        <p>🔭 Atualmente, estou trabalhando em <b>Power BI</b> e <b>Python</b></p>
+    </section>
+
+    <section>
+        <h2>Aprendizado Atual</h2>
+        <p>🌱 Estou me aprimorando em Data Engineering e Data Science</p>
+    </section>
+
+</body>
 </html>
+
 
 
 
