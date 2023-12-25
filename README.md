@@ -21,7 +21,7 @@
 <b> Veja Alguns de Meus Projetos:</b>
 
  
-<p> @ <a href="https://www.ufv.br" target="_blank"><b> Extração e Análise de Dados do Campeonato Brasileiro de Futebol <\b> </a></p>
+<p> <a href="https://www.ufv.br" target="_blank">Extração e Análise de Dados do Campeonato Brasileiro de Futebol </a></p>
 
 
 
