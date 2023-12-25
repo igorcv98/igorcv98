@@ -11,7 +11,7 @@
     <p>Analista de Dados @ <a href="https://www.votorantim.com.br/" target="_blank">Votorantim</a></p>
 </head>
 </head>
-🔭 I’m currently working on Power BI
+🔭 I’m currently working on <b>Power BI<b>
 </head>
 🌱 I’m currently learning about Data Engineering and Data Science
 </html>
