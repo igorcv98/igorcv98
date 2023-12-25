@@ -10,9 +10,10 @@
     <p>Engenheiro Mecânico @ <a href="https://www.ufv.br" target="_blank">UFV</a></p>
     <p>Analista de Dados @ <a href="https://www.votorantim.com.br/" target="_blank">Votorantim</a></p>
 </head>
+<body>
+🔭 I’m currently working on <b>Power BI and Python <b>
 </head>
-🔭 I’m currently working on <b>Power BI<b>
-</head>
+<body>
 🌱 I’m currently learning about Data Engineering and Data Science
 </html>
 
