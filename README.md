@@ -9,10 +9,10 @@
 <body>
     <p>Engenheiro Mecânico @ <a href="https://www.ufv.br" target="_blank">UFV</a></p>
     <p>Analista de Dados @ <a href="https://www.votorantim.com.br/" target="_blank">Votorantim</a></p>
-</body>
-</body>
+</head>
+</head>
 🔭 I’m currently working on Power BI
-</body>
+</head>
 🌱 I’m currently learning about Data Engineering and Data Science
 </html>
 
